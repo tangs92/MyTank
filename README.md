@@ -1,5 +1,9 @@
 # 坦克大战
-基于天花板同学的教程https://www.jianshu.com/p/e0139fe4a1f1,表示感谢
+基于天花板同学的教程https://www.jianshu.com/p/e0139fe4a1f1
+
+表示感谢^__^
+
+
 ## 简单描述
 - 基本对战功能实现了
 - 积分功能也实现了
